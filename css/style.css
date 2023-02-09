@@ -1,4 +1,26 @@
-/*  */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 400;
+    background: #fff;
+    color: #11283e;
+
+}
+
 header {
     color: darkslategray;
+}
+
+.text p {
+    font-size: 14px;
+}
+
+.card {
+    background:#f4e2a8;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
 }
